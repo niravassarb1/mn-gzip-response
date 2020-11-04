@@ -1,0 +1,371 @@
+{
+    "region": [
+        {
+            "youAreAwesome": "HHHH",
+            "divisions": [
+                {
+                    "fooBar": "Tinkle Tinkle04",
+                    "youAreAwesome": "Site Tinkle Tinkle04"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle06",
+                    "youAreAwesome": "Site Tinkle Tinkle06"
+                },
+                {
+                    "fooBar": "CLT-LAB-INT1",
+                    "youAreAwesome": "Site CLT-LAB-INT1"
+                },
+                {
+                    "fooBar": "CLT-LAB-INT2",
+                    "youAreAwesome": "Site CLT-LAB-INT2"
+                },
+                {
+                    "fooBar": "Tinkle TinkleSIT12",
+                    "youAreAwesome": "Tinkle TinkleSIT12"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle01",
+                    "youAreAwesome": "Site Tinkle Tinkle01"
+                },
+                {
+                    "fooBar": "Tinkle TinkleSIT06",
+                    "youAreAwesome": "Tinkle TinkleSIT06"
+                },
+                {
+                    "fooBar": "Tinkle TinkleARCH05",
+                    "youAreAwesome": "Tinkle TinkleARCH05"
+                },
+                {
+                    "fooBar": "CLT-LAB-DEV1",
+                    "youAreAwesome": "Site CLT-LAB-DEV1"
+                },
+                {
+                    "fooBar": "CLT-LAB-DEV5",
+                    "youAreAwesome": "Site CLT-LAB-DEV5"
+                },
+                {
+                    "fooBar": "Tinkle TinkleITAAS",
+                    "youAreAwesome": "Site Tinkle TinkleITAAS"
+                },
+                {
+                    "fooBar": "ALTICAST-HE1",
+                    "youAreAwesome": "Alticast-HE1"
+                },
+                {
+                    "fooBar": "ITAAS-HE2",
+                    "youAreAwesome": "Site ITAAS-HE2"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle02",
+                    "youAreAwesome": "Site Tinkle Tinkle02"
+                },
+                {
+                    "fooBar": "CLT-LAB-QA2",
+                    "youAreAwesome": "Site CLT-LAB-QA2"
+                },
+                {
+                    "fooBar": "Tinkle TinkleSIT03",
+                    "youAreAwesome": "Tinkle TinkleSIT03"
+                },
+                {
+                    "fooBar": "CLT-LAB-INT4",
+                    "youAreAwesome": "Site CLT-LAB-INT4"
+                },
+                {
+                    "fooBar": "Tinkle TinklePRD01",
+                    "youAreAwesome": "Site Tinkle TinklePRD01"
+                },
+                {
+                    "fooBar": "SYR",
+                    "youAreAwesome": "SYRACUSE"
+                },
+                {
+                    "fooBar": "ITAAS-IAB",
+                    "youAreAwesome": "Site ITAAS-IAB"
+                },
+                {
+                    "fooBar": "Tinkle TinkleADS01",
+                    "youAreAwesome": "Tinkle TinkleADS01"
+                },
+                {
+                    "fooBar": "CLT-LAB-DEV2",
+                    "youAreAwesome": "Site CLT-LAB-DEV2"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle05",
+                    "youAreAwesome": "Site Tinkle Tinkle05"
+                },
+                {
+                    "fooBar": "Tinkle TinkleARCH04",
+                    "youAreAwesome": "Site Tinkle TinkleARCH04"
+                },
+                {
+                    "fooBar": "Tinkle TinkleADS02",
+                    "youAreAwesome": "Site Tinkle TinkleADS02"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle03",
+                    "youAreAwesome": "Site Tinkle Tinkle03"
+                },
+                {
+                    "fooBar": "Tinkle TinkleSIT02",
+                    "youAreAwesome": "Tinkle TinkleSIT02"
+                },
+                {
+                    "fooBar": "Tinkle Tinkle07",
+                    "youAreAwesome": "Site Tinkle Tinkle07"
+                },
+                {
+                    "fooBar": "SMN",
+                    "youAreAwesome": "SOUTHMANHATTAN"
+                },
+                {
+                    "fooBar": "CLT-LAB-INT3",
+                    "youAreAwesome": "Site CLT-LAB-INT3"
+                },
+                {
+                    "fooBar": "Tinkle TinklePRD02",
+                    "youAreAwesome": "Site Tinkle TinklePRD02"
+                },
+                {
+                    "fooBar": "CLT",
+                    "youAreAwesome": "CHARLOTTE"
+                },
+                {
+                    "fooBar": "CLT-LAB-DEV3",
+                    "youAreAwesome": "Site CLT-LAB-DEV3"
+                },
+                {
+                    "fooBar": "BC5",
+                    "youAreAwesome": "Formerly SIT03"
+                }
+            ]
+        },
+        {
+            "youAreAwesome": "CHARTER",
+            "divisions": [
+                {
+                    "fooBar": "STLO",
+                    "youAreAwesome": "My own awesomeness STLO"
+                },
+                {
+                    "fooBar": "SLAB",
+                    "youAreAwesome": "My own awesomeness SLAB"
+                },
+                {
+                    "fooBar": "STVN",
+                    "youAreAwesome": "My own awesomeness STVN"
+                },
+                {
+                    "fooBar": "ALCO",
+                    "youAreAwesome": "My own awesomeness ALCO"
+                },
+                {
+                    "fooBar": "RENO",
+                    "youAreAwesome": "My own awesomeness RENO"
+                },
+                {
+                    "fooBar": "ALLN",
+                    "youAreAwesome": "My own awesomeness Allendale"
+                },
+                {
+                    "fooBar": "ASHE",
+                    "youAreAwesome": "My own awesomeness Asheville"
+                },
+                {
+                    "fooBar": "BAYS",
+                    "youAreAwesome": "My own awesomeness Bay City"
+                },
+                {
+                    "fooBar": "BIRM",
+                    "youAreAwesome": "My own awesomeness Birmingham"
+                },
+                {
+                    "fooBar": "COWY",
+                    "youAreAwesome": "My own awesomeness Colorado Wyoming"
+                },
+                {
+                    "fooBar": "CTVA",
+                    "youAreAwesome": "Spec CTVA"
+                },
+                {
+                    "fooBar": "DENT",
+                    "youAreAwesome": "My own awesomeness Denton"
+                },
+                {
+                    "fooBar": "ESMR",
+                    "youAreAwesome": "My own awesomeness Escanaba"
+                },
+                {
+                    "fooBar": "FTWR",
+                    "youAreAwesome": "My own awesomeness Fort Worth"
+                },
+                {
+                    "fooBar": "GSAA",
+                    "youAreAwesome": "My own awesomeness GSA"
+                },
+                {
+                    "fooBar": "GWIN",
+                    "youAreAwesome": "My own awesomeness Gwinnett"
+                },
+                {
+                    "fooBar": "JACK",
+                    "youAreAwesome": "My own awesomeness Jackson"
+                },
+                {
+                    "fooBar": "KEAR",
+                    "youAreAwesome": "My own awesomeness Kearney"
+                },
+                {
+                    "fooBar": "KENN",
+                    "youAreAwesome": "My own awesomeness Kennewick"
+                },
+                {
+                    "fooBar": "LEED",
+                    "youAreAwesome": "My own awesomeness Leeds"
+                },
+                {
+                    "fooBar": "MADI",
+                    "youAreAwesome": "My own awesomeness Madison"
+                },
+                {
+                    "fooBar": "MEDF",
+                    "youAreAwesome": "My own awesomeness Medford"
+                },
+                {
+                    "fooBar": "MPKH",
+                    "youAreAwesome": "My own awesomeness Monterey Park HRC"
+                },
+                {
+                    "fooBar": "MPKS",
+                    "youAreAwesome": "My own awesomeness Monterey Park STD"
+                },
+                {
+                    "fooBar": "MTNA",
+                    "youAreAwesome": "My own awesomeness Montana"
+                },
+                {
+                    "fooBar": "NEWN",
+                    "youAreAwesome": "My own awesomeness Newnan"
+                },
+                {
+                    "fooBar": "NEWT",
+                    "youAreAwesome": "My own awesomeness Newtown"
+                },
+                {
+                    "fooBar": "REDD",
+                    "youAreAwesome": "My own awesomeness Redding"
+                },
+                {
+                    "fooBar": "ROCH",
+                    "youAreAwesome": "My own awesomeness Rochester"
+                },
+                {
+                    "fooBar": "SLDL",
+                    "youAreAwesome": "My own awesomeness Slidell"
+                },
+                {
+                    "fooBar": "SLOT",
+                    "youAreAwesome": "My own awesomeness Slo"
+                },
+                {
+                    "fooBar": "SPNG",
+                    "youAreAwesome": "My own awesomeness Conroe"
+                },
+                {
+                    "fooBar": "STCK",
+                    "youAreAwesome": "My own awesomeness Stockbridge"
+                },
+                {
+                    "fooBar": "STCL",
+                    "youAreAwesome": "My own awesomeness St Cloud"
+                },
+                {
+                    "fooBar": "TBDX",
+                    "youAreAwesome": "My own awesomeness Thibodaux"
+                },
+                {
+                    "fooBar": "TRIC",
+                    "youAreAwesome": "My own awesomeness Tri-Cities"
+                },
+                {
+                    "fooBar": "WORC",
+                    "youAreAwesome": "My own awesomeness Worchester"
+                },
+                {
+                    "fooBar": "CA34",
+                    "youAreAwesome": "CTEC CA34"
+                },
+                {
+                    "fooBar": "CC32",
+                    "youAreAwesome": "CTEC CC32"
+                },
+                {
+                    "fooBar": "CA11",
+                    "youAreAwesome": "CTEC CA11"
+                },
+                {
+                    "fooBar": "CA31",
+                    "youAreAwesome": "CTEC CA31"
+                },
+                {
+                    "fooBar": "CA32",
+                    "youAreAwesome": "CTEC CA32"
+                },
+                {
+                    "fooBar": "CA61",
+                    "youAreAwesome": "CTEC CA61"
+                },
+                {
+                    "fooBar": "CC51",
+                    "youAreAwesome": "CTEC CC51"
+                }
+            ]
+        },
+        {
+            "youAreAwesome": "FOO",
+            "divisions": [
+                {
+                    "fooBar": "FOOBAR",
+                    "youAreAwesome": "BH LAB"
+                },
+                {
+                    "fooBar": "TPB",
+                    "youAreAwesome": "My own awesomeness TPB"
+                },
+                {
+                    "fooBar": "AAB",
+                    "youAreAwesome": "My own awesomeness AAB"
+                },
+                {
+                    "fooBar": "BAK",
+                    "youAreAwesome": "My own awesomeness BAKERSFIELD"
+                },
+                {
+                    "fooBar": "BHM",
+                    "youAreAwesome": "My own awesomeness Birmingham"
+                },
+                {
+                    "fooBar": "DEL",
+                    "youAreAwesome": "My own awesomeness Deland"
+                },
+                {
+                    "fooBar": "DET",
+                    "youAreAwesome": "My own awesomeness Detroit"
+                },
+                {
+                    "fooBar": "IND",
+                    "youAreAwesome": "My own awesomeness Indianapolis"
+                },
+                {
+                    "fooBar": "TPF",
+                    "youAreAwesome": "My own awesomeness Fortune"
+                },
+                {
+                    "fooBar": "TC20",
+                    "youAreAwesome": "TC20 formally Tinkle TinkleADS01"
+                }
+            ]
+        }
+    ]
+}
